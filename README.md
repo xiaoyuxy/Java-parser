@@ -32,4 +32,7 @@ cases.
     XiaoyuLiang-MacBook-Pro:Desktop kaichen$ java -jar umlparser.jar uml-parsertest-
     1 test1.png
     ```
+## Result example:
+
+![test5](https://user-images.githubusercontent.com/17173579/30468491-7cf57388-99a0-11e7-9402-8848006ccbdc.png)
 
